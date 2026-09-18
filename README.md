@@ -71,7 +71,7 @@ plt.title("Input Image with Text")
 plt.axis("off")
 plt.show()
 ```
-<img width="813" height="497" alt="image" src="https://github.com/user-attachments/assets/18a7776d-bbf7-4a3a-b959-f61cd7456017" />
+<img width="792" height="527" alt="WhatsApp Image 2026-09-18 at 10 51 13 AM" src="https://github.com/user-attachments/assets/110bbe2f-1957-454a-a420-5e03568034b0" />
 
 ### Erosion
 ```
@@ -83,7 +83,7 @@ plt.axis("off")
 plt.show()
 ```
 
-<img width="575" height="498" alt="image" src="https://github.com/user-attachments/assets/eca0ed4c-9386-4a06-a1e7-359b1963745e" />
+<img width="793" height="556" alt="WhatsApp Image 2026-09-18 at 10 51 23 AM" src="https://github.com/user-attachments/assets/4183b592-5cb4-4b4a-857e-fc77a900f6ca" />
 
 
 
@@ -96,7 +96,7 @@ plt.title("Image Dilation")
 plt.axis("off")
 plt.show()
 ```
-<img width="847" height="510" alt="image" src="https://github.com/user-attachments/assets/e1894169-feaa-4704-b133-91a75439a1e4" />
+<img width="654" height="545" alt="WhatsApp Image 2026-09-18 at 10 51 34 AM" src="https://github.com/user-attachments/assets/3ad0c299-3510-4182-a918-0f1b7718f324" />
 
 
 
